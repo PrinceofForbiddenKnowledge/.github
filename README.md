@@ -46,7 +46,7 @@ A place where code isn't just written; it's **forged like weaponry**.
 
 | Library Name                     | Description                                        | Language  |
 |----------------------------------|----------------------------------------------------|-----------|
-| `assassins_algorithm`            | A scalable algorithm library with 1000+ algorithms | Dart      |
+| `Pofk_algorithm`            | A scalable algorithm library with 1000+ algorithms | Dart      |
 | `forbidden_drawer`               | Custom navigation drawer with stunning animations  | Flutter   |
 | `forbidden_bottom_nav`          | 20+ custom bottom navigation bars                  | Flutter   |
 | `forbidden_app_bar`             | Unique animated app bar collection                 | Flutter   |
